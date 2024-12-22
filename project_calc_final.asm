@@ -17,7 +17,7 @@ START:    MOV AX,0h
      
 ; ( C )             
         GOTOXY 1,0     
-        PRINT '-------------_ calculator project .|.  ------------_'                    
+        PRINT '-_-_-_-_-_-_-_-_-_-_-_-_-_ calculator project .|.  _-_-_-_-_-_-_-_-_-_-_-_-_'                  
         GOTOXY 1,2                        
         PRINT '1-NOTHING/EXIT'  
         GOTOXY 1,3  
